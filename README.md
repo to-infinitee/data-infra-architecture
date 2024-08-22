@@ -1,11 +1,5 @@
-# Data Pipeline Infrastructure Overview
-
-This repository outlines the architecture and implementation of a data pipeline designed to handle the generation, ingestion, storage, transformation, and visualization of data. The infrastructure is built using a modern data stack that leverages cloud services and open-source tools for scalability, security, and efficiency.
-
-## Architecture Diagram
-
 ![Demo](demo.webp)
-
+It outlines the architecture and implementation of a data pipeline designed to handle the generation, ingestion, storage, transformation, and visualization of data. The infrastructure is built using a modern data stack that leverages cloud services and open-source tools for scalability, security, and efficiency.
 ## Components Breakdown
 
 ### 1. **Data Generation**
